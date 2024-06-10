@@ -1,11 +1,8 @@
-## Hi there 👋
+## ta fuxicando o que no meu perfil? 🤔
 
-<!--
-**silvzEk/silvzEk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+me chamo Evy Chavosa, vulgo menina veneno 🐍
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- to fazendo esse negocio do alura mas não por que quero, sim por ser obrigada pelo governo e prof juliana chavosa 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
